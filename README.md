@@ -37,6 +37,8 @@ Learning Linux commands and terminal navigation for AWS and DevOps tasks.
 * `mv` - Move or rename files
 * `rm` - Delete files (`rm -r` for folders)
 * `mkdir` / `rmdir` - Create or remove empty directories
+* * `chown` - Change file/directory owner and group
+* `chmod` - Change file/directory permissions
 
 ### 3. Text Filtering & Scripting Tools
 * `grep` - Search text for patterns
